@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Grab Your News!!!</string>
+   <string name="no_internet">No internet connection!!! please check your connection</string>
+</resources>
